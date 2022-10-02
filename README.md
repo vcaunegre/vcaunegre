@@ -1,5 +1,13 @@
 ### Hi there 👋
-My name is Vincent Caunegre and I'm a software developer
+My name is Vincent Caunegre and I'm currently studying computer science at Université de Pau et des Pays de l'Adour, in Anglet
+
+
+- 🔭 I’m currently working on Rest API projects
+- 🌱 I’m currently learning Java and Spring Boot
+- 👯 I’m looking to collaborate on Java projects
+- 🤔 I’m looking for help with JUnit and Hibernate
+- 📫 How to reach me: By mail and by Linkedin
+
 
 <!--
 **vcaunegre/vcaunegre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
